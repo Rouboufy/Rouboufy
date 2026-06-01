@@ -1,5 +1,10 @@
 #  Hi there, I'm Ben
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muesli/readme-scribe/master/images/git-logo.png" width="100" />
+</p>
+
+
 ### 🖥️ System Info
 ```yaml
 OS: Custom Linux (Arch/NixOs)
@@ -31,8 +36,8 @@ Focus: Low-level, TUI, Developer Experience
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rouboufy&show_icons=true&theme=tokyonight&hide_border=true" alt="Rouboufy's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rouboufy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://img.shields.io/github/followers/Rouboufy?style=for-the-badge&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Rouboufy?style=for-the-badge&logo=github" alt="Total stars" />
 </p>
 
 ---
