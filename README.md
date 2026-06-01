@@ -1,7 +1,7 @@
 #  Hi there, I'm Ben
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muesli/readme-scribe/master/images/git-logo.png" width="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" />
 </p>
 
 
