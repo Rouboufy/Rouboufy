@@ -1,22 +1,14 @@
-# 👋 Hi there, I'm Rouboufy
+#  Hi there, I'm Ben
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/muesli/readme-scribe/master/images/git-logo.png" width="100" />
 </p>
 
-```text
-       ___            _                 _       
-      / _ \___  _   _| |__   ___  _   _| |_   _ 
-     / /_)/ _ \| | | | '_ \ / _ \| | | | | | | |
-    / ___/ (_) | |_| | |_) | (_) | |_| | | |_| |
-    \/    \___/ \__,_|_.__/ \___/ \__,_|_|\__, |
-                                          |___/ 
-```
 
 ### 🖥️ System Info
 ```yaml
-OS: Custom Linux (Arch/Nix vibes)
-Host: 42_School_Paris
+OS: Custom Linux (Arch/NixOs)
+Host: 42_School_Tokyo
 Kernel: 6.x.x-hacking
 Shell: zsh / fish
 Editor: Neovim (inside Vide)
@@ -25,7 +17,7 @@ Focus: Low-level, TUI, Developer Experience
 
 ---
 
-### 🚀 Currently Hacking
+###  Current Project
 - **[Vide](https://github.com/Rouboufy/vide)**: A high-performance IDE written in **Zig**, embedding Neovim as its core. Zero runtime dependencies, raw VT sequences, and total control.
 - **[Nmux42](https://github.com/Rouboufy/Nmux42)**: A curated configuration for 42 students (AI, Nvim, Tmux).
 - **42 School Projects**: Deep diving into C, Algorithms, and System programming.
