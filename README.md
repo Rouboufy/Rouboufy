@@ -1,10 +1,5 @@
 #  Hi there, I'm Ben
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muesli/readme-scribe/master/images/git-logo.png" width="100" />
-</p>
-
-
 ### 🖥️ System Info
 ```yaml
 OS: Custom Linux (Arch/NixOs)
@@ -44,5 +39,5 @@ Focus: Low-level, TUI, Developer Experience
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-hacking-success?style=flat-square&color=2ea44f" />
-  <img src="https://img.shields.io/badge/location-42_Paris-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/location-42_Tokyo-blue?style=flat-square" />
 </p>
