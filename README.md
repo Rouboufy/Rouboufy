@@ -4,6 +4,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" />
 </p>
 
+---
+
+<p align="center">
+  <a href="https://github.com/Rouboufy">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rouboufy&theme=nord_bright" alt="Rouboufy's GitHub stats" />
+  </a>
+</p>
+
+---
 
 ### 🖥️ System Info
 ```yaml
