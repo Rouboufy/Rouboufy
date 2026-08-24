@@ -1,9 +1,4 @@
 #  Hi there, I'm Ben
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" />
-</p>
-
 ---
 
 <p align="center">
@@ -16,10 +11,8 @@
 
 ### 🖥️ System Info
 ```yaml
-OS: Custom Linux (Arch/NixOs)
+OS: Custom Linux (Arch)
 Host: 42_School_Tokyo
-Kernel: 6.x.x-hacking
-Shell: zsh / fish
 Editor: Neovim (inside Vide)
 Focus: Low-level, TUI, Developer Experience
 ```
