@@ -20,7 +20,7 @@ Focus: TUI, Developer Experience
 ---
 
 ###  Current Project
-- **[Vide](https://github.com/Rouboufy/vide)**: A high-performance IDE written in **Zig**, embedding Neovim as its core. Zero runtime dependencies, raw VT sequences, and total control.
+- **[Tuim](https://github.com/Rouboufy/vide)**: A high-performance IDE written in **Zig**, embedding Neovim as its core. Zero runtime dependencies, raw VT sequences, and total control.
 
 ⬆️⚠️⚠️⚠️⚠️⚠️⚠️ NMUX42 IS ACTUALLY NOT WORKED ON PLEASE CHECK VIDE ⚠️⚠️⚠️⚠️⚠️⚠️
 - **[Nmux42](https://github.com/Rouboufy/Nmux42)**: A curated configuration for 42 students (AI, Nvim, Tmux).
