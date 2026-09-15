@@ -13,7 +13,7 @@
 ```yaml
 OS: Arch-btw
 Host: 42_School_Tokyo
-Editor: VIDE
+Editor: TUIM - Text Editor
 Focus: TUI, Developer Experience
 ```
 
